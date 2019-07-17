@@ -1,0 +1,67 @@
+.mainCardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loginCardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loginButtonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 2px;
+  margin: auto
+  }
+
+  .ButtonContainer button{
+  padding: 2px;
+  margin-left: 5px;
+  }
+
+.registerCardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.registerButtonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 2px;
+  margin: auto
+  }
+
+  .registerButtonContainer button{
+  padding: 2px;
+  margin-left: 5px;
+  }
+
+
+
+
+
+.InnerDiv2 {
+text-align: left; 
+}
+
+/*.nav-link {
+    color: grey !important;
+  }*/
+
+.innerDiv1 {
+  text-align: left;
+}
