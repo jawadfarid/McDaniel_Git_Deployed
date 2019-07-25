@@ -161,7 +161,7 @@ class App extends Component{
                 updateSubmitOnClick = {this.updateSubmitOnClick}
                 logOut = {this.logOut}/>;
 
-    } else if (this.state.view === "login"){
+    } else if  (this.state.view === "login"){
      setPage = <LoginComp 
                 registerSubmitOnClick = {this.registerSubmitOnClick}
                 loginCancelOnClick = {this.loginCancelOnClick}/>;
